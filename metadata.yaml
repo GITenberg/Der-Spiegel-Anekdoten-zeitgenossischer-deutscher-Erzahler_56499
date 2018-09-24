@@ -1,0 +1,27 @@
+_repo: Der-Spiegel-Anekdoten-zeitgenossischer-deutscher-Erzahler_56499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Lerbs, Karl
+    gutenberg_agent_id: '48885'
+    url: http://www.gutenberg.org/2009/agents/48885
+description: ''
+gutenberg_issued: '2018-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56499'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Spiegel
+
+  Anekdoten zeitgenössischer deutscher Erzähler'
+url: http://www.gutenberg.org/ebooks/56499
